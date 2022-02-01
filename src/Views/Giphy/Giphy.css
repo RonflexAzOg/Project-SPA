@@ -1,0 +1,27 @@
+body{
+    background: #222;
+    font-family: "Raleway",sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}    
+
+.title{
+    text-align: center;
+    color: #fff;
+}
+
+.link{
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    color: #fff;
+}
+
+.image{
+    width: 100px;
+}
+
+.search-bar{
+    text-align: center;
+}

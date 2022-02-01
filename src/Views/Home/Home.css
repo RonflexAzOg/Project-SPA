@@ -1,0 +1,35 @@
+body{
+    background: #222;
+    font-family: "Raleway",sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    overflow-x: hidden;
+}    
+
+.title{
+    text-align: center;
+    color: white;
+}
+
+.div-button{
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-link{
+    height: 100%;
+    border-radius: 0px;
+    border: none;
+    outline: none;
+    padding: 0px 10px;
+    background: #fff;
+    color: #222;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.image-home{
+    margin-bottom: 1em;
+}
